@@ -8,7 +8,7 @@
 
 <h2>
   <p align="center">
-    Hi, Shan's aboard. Ready for launch 🚀
+    Hi, SetH's aboard. Ready for launch 🚀
   </p>
 </h2>
 
